@@ -8,6 +8,7 @@
 #include "VideoPacketWiiU.h"
 #include "../../../util/BitUtil.h"
 #include "../../../util/logging/Logger.h"
+#include <cstdint>
 
 using namespace std;
 
