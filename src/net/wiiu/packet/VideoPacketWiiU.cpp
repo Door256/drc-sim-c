@@ -2,13 +2,13 @@
 // Created by rolando on 5/14/17.
 //
 
+#include <cstdint>
 #include <iostream>
 #include <sstream>
 #include <assert.h>
 #include "VideoPacketWiiU.h"
 #include "../../../util/BitUtil.h"
 #include "../../../util/logging/Logger.h"
-#include <cstdint>
 
 using namespace std;
 
